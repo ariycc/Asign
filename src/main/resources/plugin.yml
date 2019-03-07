@@ -1,0 +1,11 @@
+name: Asign
+main: pers.ariy.Main
+version: 1.0.0
+api-version: 1.13
+softdepend: [PlaceholderAPI]
+commands:
+  ts:
+    usage: '/ts <menu|give|reload>'
+    description: '一款好用的签到插件'
+    permisson: 'ts.use'
+    permisson-message: '需要ts.use权限'
